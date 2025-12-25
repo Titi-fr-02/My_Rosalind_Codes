@@ -1,0 +1,1 @@
+From far the last problem I'm working on is the Catalan numbers problem, so I'm learning more about some mathematics formula and will soon keep going the project that is quite slowed down now with holidays and other prioritar project.
